@@ -1,0 +1,51 @@
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info/
+.venv/
+.env
+.env.*
+
+# Node/Next.js
+node_modules/
+.next/
+dist/
+out/
+*.log
+*.tsbuildinfo
+
+# Angular (if ever used)
+.angular/
+
+# Docker
+.dockerignore
+
+# Build artifacts
+build/
+wheels/
+
+# Misc
+uv.lock
+
+# Local data and configuration
+63090a6f-b69a-457f-ac79-279f7c5c8fae.json
+cloudflared-config.yml
+test_rules.json
+test.csv
+.claude/
+repomix-output.xml
+api/data/datasets/
+api/create_test_rules.py
+api/test_api.py/
+api/test_rules_api.py/
+pytest.ini/
+tests/
+
+# Gemini
+.gemini-clipboard
+
