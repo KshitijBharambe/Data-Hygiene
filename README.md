@@ -1,4 +1,4 @@
-# 🥹 Data Hygiene Toolkit
+# Data Hygiene Toolkit
 
 Basic setup for data validation and quality checks.
 FastAPI + Next.js + PostgreSQL.
